@@ -4,7 +4,7 @@
 I am digging for answers in data & models but stipulating that the ultimate answer is 42...  
   
 
-- 🌱 Currently expanding my knowledge by attending the Spiced Academy Data Science Bootcamp  
+- 🌱 I graduated the Spiced Academy Data Science Bootcamp on June 2024 
   
 
 - ⚡ Fun fact: Recursive functions blow my mind  
