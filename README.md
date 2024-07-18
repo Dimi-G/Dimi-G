@@ -37,7 +37,7 @@ I am digging for answers in data & models but stipulating that the ultimate answ
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
 <img style="margin: 10px" src="https://imgs.search.brave.com/AE7shU9XqE3qXIh0akO6Z8JpxI8Y59FHIPAdjSJhJUY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mYXN0/YXBpLnRpYW5nb2xv/LmNvbS9pbWcvbG9n/by1tYXJnaW4vbG9n/by10ZWFsLnBuZw" alt="FastAPI" height ="50" />
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a> 
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50"></a> 
 </div>
 
 </td><td valign="top" width="33%">
