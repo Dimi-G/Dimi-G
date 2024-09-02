@@ -77,7 +77,7 @@ I am digging for answers in data & models but stipulating that the ultimate answ
 ## Projects
 - 📚 Want to keep track of your read books locally? My [Library Project](https://github.com/Dimi-G/Library_Webapp) is a simple and clean interface that does exactly this! You can add your books, rate them and store them in a local database. The interface connects to the Google Books API, allowing you to choose the book you are looking for.
 - 🏘️ How would you utilize a real estate database to provide concrete suggestions meeting the client's needs? Check my take on this [Exploratory Data Analysis](https://github.com/Dimi-G/House_Sales_EDA_SpicedAcademy) scenario
-- 🤗 Interested in fine-tuning an LLM transformer model? Check my [Beginner's guide to emotion classification](https://github.com/Dimi-G/Capstone_Project/blob/main/Beginners_guide_to_emotion_classification.ipynb).
+- 🤗 Interested in fine-tuning an LLM transformer model? Check my [Beginner's guide to emotion classification](https://github.com/Dimi-G/Capstone_Project/blob/main/Beginners_guide_to_emotion_classification.ipynb) that was part of my [Data Science Capstone Project](https://github.com/Dimi-G/Capstone_Project).
 - 💼 Created my personal site with Streamlit. Feel free to get code and ideas from the [repository](https://github.com/Dimi-G/Personal_Website).
 - 🎸 Do you want to make an original gift to a friend for their birthday? How about a [personalized Spotify playlist](https://github.com/Dimi-G/Spotify_birthday_list)?
 
