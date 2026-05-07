@@ -7,10 +7,9 @@ I am digging for answers in data & models but stipulating that the ultimate answ
 
 - 🌱 Graduated the Data Science Bootcamp from Spiced Academy on July 2024 
   
+- ⚡ Fun fact: Recursive functions blow my mind
 
-- ⚡ Fun fact: Recursive functions blow my mind  
-  
-  
+Feel free to contact for scientic exchange!
 
 <br/>  
 
@@ -49,7 +48,8 @@ I am digging for answers in data & models but stipulating that the ultimate answ
 
 ### Databases  
 <div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -71,14 +71,14 @@ I am digging for answers in data & models but stipulating that the ultimate answ
 <br/>  
 
 ## Projects
+- ⚗️ Working with solar cells? Check out my team's solutions for managing perovskite solar cell research workflows in [HZB](https://github.com/nomad-hzb).
+- 🤗 Interested in fine-tuning an LLM transformer model? Check my [Beginner's guide to emotion classification](https://github.com/Dimi-G/Capstone_Project/blob/main/Beginners_guide_to_emotion_classification.ipynb) that was part of my [Data Science Capstone Project](https://github.com/Dimi-G/Capstone_Project).
 - 📚 Want to keep track of your read books locally? My [Library Project](https://github.com/Dimi-G/Library_Webapp) is a simple and clean interface that does exactly this! You can add your books, rate them and store them in a local database. The interface connects to the Google Books API, allowing you to choose the book you are looking for.
 - 🏘️ How would you utilize a real estate database to provide concrete suggestions meeting the client's needs? Check my take on this [Exploratory Data Analysis](https://github.com/Dimi-G/House_Sales_EDA_SpicedAcademy) scenario
-- 🤗 Interested in fine-tuning an LLM transformer model? Check my [Beginner's guide to emotion classification](https://github.com/Dimi-G/Capstone_Project/blob/main/Beginners_guide_to_emotion_classification.ipynb) that was part of my [Data Science Capstone Project](https://github.com/Dimi-G/Capstone_Project).
 - 💼 Created my personal site with Streamlit. Feel free to get code and ideas from the [repository](https://github.com/Dimi-G/Personal_Website).
 - 🎸 Do you want to make an original gift to a friend for their birthday? How about a [personalized Spotify playlist](https://github.com/Dimi-G/Spotify_birthday_list)?
 
-  
-<br/>  
+  <br/>  
 
 
 ## Connect with me  
