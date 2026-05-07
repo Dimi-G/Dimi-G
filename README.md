@@ -1,19 +1,15 @@
-### Hi!  I'm Dimitra, a physicist  🧑‍🔬 turned to data scientist & coder 👩‍💻  
+### Hi!  I'm Dimitra, a physicist + material scientist  🧑‍🔬 turned to data scientist & coder 👩‍💻  
   
 
 I am digging for answers in data & models but stipulating that the ultimate answer is 42...  
   
+- 🔆 Currently busy with lab data management of Perovskite Solar Cells by developing and deploying [NOMAD](https://nomad-lab.eu/nomad-lab/) plugins
 
-- 🌱 Graduated from Spiced Academy Data Science Bootcamp on July 2024 
+- 🌱 Graduated the Data Science Bootcamp from Spiced Academy on July 2024 
   
 
 - ⚡ Fun fact: Recursive functions blow my mind  
   
-
-- ❓ Ask me anything regarding mathematics in machine learning  
-  
-
--  🔭 Looking for collaborators for DS/ML projects  
   
 
 <br/>  
